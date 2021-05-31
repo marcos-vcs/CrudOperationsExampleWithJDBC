@@ -1,4 +1,4 @@
-## Simple example of using JDBC
+## Simple example of using JDBC 🙌
 ![JDBC image representation](http://www.oracle.com/technetwork/database/application-development/jdbc/jdbc-2-4389800.png)
 ---
 **In this example, the use of CRUD operations in the creation of a stock management system for a pharmacy is demonstrated.**
