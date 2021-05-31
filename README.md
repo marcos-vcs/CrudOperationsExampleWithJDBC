@@ -1,6 +1,9 @@
 ## Simple example of using JDBC
 ![JDBC image representation](http://www.oracle.com/technetwork/database/application-development/jdbc/jdbc-2-4389800.png)
+---
+**In this example, the use of CRUD operations in the creation of a stock management system for a pharmacy is demonstrated.**
 
+---
 > In this example, it is seen the use of JDBC (Java DataBase
 > Connectivity) in a CRUD (create, read, update, delete), using MySql
 > database management system. With some changes this same code can be
